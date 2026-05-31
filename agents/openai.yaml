@@ -1,0 +1,4 @@
+interface:
+  display_name: "AgentBroPet"
+  short_description: "Create backend-flexible app pets"
+  default_prompt: "Use $AgentBroPet to create an AgentBro-compatible animated pet from a concept, brand, or reference image."
